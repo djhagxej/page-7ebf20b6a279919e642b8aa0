@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "909f72b3b043abcb1f03a366",
+  "owner": "djhagxej",
+  "repo": "page-7ebf20b6a279919e642b8aa0",
+  "title": "AiK",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7ebf20b6a279919e642b8aa0",
+      "a": "AiK",
+      "b": "稳定全球clash加速器",
+      "entity": "AiK",
+      "brand": "AiK",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8d05f42eb81318e1363db32bf6e43a94b7ffb87d4b9968a703672e7c7daa4729",
+      "content": {
+        "primary_entity": "AiK",
+        "keyword1": "AiK",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，参考订阅导入说明完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求挑选套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，连上节点",
+          "AI_DESCRIPTION": "，面向需要跨境网络加速的用户。提供基础版、旗舰版与团队版三档订阅，分别支持 3 台、5 台和 20 台设备同时在线，月付起步价分别为 ¥15、¥35、¥85，年付可享对应折扣。节点覆盖多个地区，旗舰版加入 IPLC 专线优化，团队版提供 VIP 高带宽节点与企业定制路由选项。",
+          "AI_FEATURES_INTRO": "从套餐、设备到订阅周期，三步明确使用方向。",
+          "AI_FEATURES_TITLE": "使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按用量选择合适档位。",
+          "AI_FEATURE_TITLE_1": "流量按需匹配",
+          "AI_FEATURE_TEXT_2": "同时在线设备从 3 台到 20 台，手机、电脑、平板可分别配置客户端。",
+          "AI_FEATURE_TITLE_2": "设备数量适配",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格更低，长期使用可选年付方案。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "选定服务、确认设备适配、按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "AiK 提供多地区节点加速服务，覆盖日常浏览、流媒体与游戏场景。三档套餐对应不同流量和在线设备数，可按需选择月付或年付，在常用客户端导入订阅后开始使用。",
+          "AI_HERO_SUBTITLE": "多地区节点 套餐灵活可选",
+          "AI_HIGHLIGHT_1": "多地区节点接入",
+          "AI_HIGHLIGHT_2": "三档套餐对应不同设备数",
+          "AI_HIGHLIGHT_3": "月付年付自由切换",
+          "AI_PLANS_INTRO": "基础版适合单人或少量设备，旗舰版适合多设备与流媒体需求，团队版面向高流量与多人协作场景。可按在线设备数和每月流量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选定服务",
+          "AI_STEP_TEXT_2": "确认设备系统与同时在线数量，查看对应客户端的适配要求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照所选客户端的订阅导入文档完成配置，再选择节点使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "AiK 多地区加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "AiK 三档套餐如何选？",
+          "AI_FAQ_ANSWER_1": "按设备数和月流量判断：单人一至三台设备选基础版，家庭五台左右选旗舰版，多人或小团队二十台选团队版，流量需求大则往高一级选。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，均约为十个月月付费用，长期使用年付更省。",
+          "AI_FAQ_QUESTION_3": "一台订阅能同时在几台设备上用？",
+          "AI_FAQ_ANSWER_3": "按档位限制：基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，超出数量可升级档位或增配设备位。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，粘贴订阅地址并更新节点列表，随后选择节点连接，具体路径以客户端文档为准。",
+          "AI_FAQ_QUESTION_5": "线路和节点有什么区别？",
+          "AI_FAQ_ANSWER_5": "普通线路节点池适合日常浏览，旗舰版含 IPLC 专线并对游戏加速优化，团队版提供 VIP 高带宽节点，可按用途选择档位。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4ss3gzmi.com",
+    "host": "xn--9kqy4ss3gzmi.com"
+  },
+  "file_hashes": {
+    "index.html": "4e88e13f679b4863665a2835e562dfee1e6ea327bddbbfd0319c616ce7e44420",
+    "sitemap.xml": "28ae94232600c5b7a44aca7e982fa08aaa4143acee5ef87d043a3ec424322edb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "881d5a6e7750e6b927308ac5057f5c1905f8db02d2c1ba399c29477c5a87ad08",
+    "robots.txt": "e8f7db062099300c70b9411fcbba567c3a2ae605c5e439542345006c79e056ee",
+    "2df34f768c6070b809df7ce3f34ed5f4.txt": "07c1990084028f6708a340e7a343df22b84b85f2e4d65fa3c150649aa6f2927f"
+  },
+  "revision": "6e2b4f61c00f6c0f8f2673dbf5c715007d0320d01556861f5e06a9f7c338d168"
+}
